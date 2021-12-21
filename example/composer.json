@@ -1,0 +1,12 @@
+{
+    "name": "acme/example-api",
+    "autoload": {
+        "psr-4": {
+            "Acme\\ExampleApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "ysato/api-client-starter": "^1.0"
+    }
+}
